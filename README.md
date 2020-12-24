@@ -1,5 +1,5 @@
 # 2020-12-24
-
+- ref https://app.pluralsight.com/course-player?clipId=4f055d63-4442-43d7-904b-ab2837d2c653
 - 目前是     <TargetFramework>netcoreapp3.1</TargetFramework>
 - TODO net5.0
 
